@@ -9,7 +9,7 @@
 ## 1. Who Are Our Users?
 
 ### Persona 1: End-User Customer
-**Who they are**: People working in Slack channels who need help with questions, troubleshooting, or finding information.
+**Who they are**: End customers who come to Slack channels seeking help with questions, troubleshooting, or finding information. They may be internal team members or external customers accessing support through Slack channels.
 
 **Current Pain Points**:
 - ❌ **Can't find answers quickly**: Have to search through multiple tools, documentation sites, and old Slack messages
